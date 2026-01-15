@@ -1,10 +1,3 @@
-python
-"""
-Michael Oliver Silver Momentum Dashboard
-A professional-grade Streamlit dashboard for tracking silver momentum signals.
-Author: Financial Data Visualization Specialist
-"""
-
 import streamlit as st
 import yfinance as yf
 import pandas as pd
